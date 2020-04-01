@@ -132,7 +132,7 @@ nav {
 
 .continue-to-page > a{
     font-size: 4rem;
-    color:blue;
+    color: #c76f65;
     margin: auto;
 }
 
@@ -299,6 +299,10 @@ h3 {
 
     .social-icons > a {
         padding: 0 10px;
+    }
+
+    .continue-to-page{
+        bottom: 10vh;
     }
 
     .download-resume > a {
