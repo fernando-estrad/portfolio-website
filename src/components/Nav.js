@@ -6,13 +6,11 @@ export default function Nav(){
     const handleClick = () => {
         const navList = document.getElementById("navList")
         navList.classList.toggle("open")
-        console.log(navList.classList)
     }
 
     const NormalNav = () => {
         const navList = document.getElementById("navList")
         if (window.innerWidth >= 650 && navList.classList.contains("open")){
-            console.log("big")
             navList.classList.remove("open")
         }
     }
