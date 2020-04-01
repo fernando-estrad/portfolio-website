@@ -38,7 +38,6 @@ nav {
     align-items: center;
     height: 100%;
     list-style: none;
-    /* transition: all 2s ease-in; */
 }
 
 .nav-list li a {
@@ -133,7 +132,7 @@ nav {
 
 .continue-to-page > a{
     font-size: 4rem;
-    color: #c76f65;
+    color:blue;
     margin: auto;
 }
 
