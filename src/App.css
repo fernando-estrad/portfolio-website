@@ -305,6 +305,10 @@ h3 {
         bottom: 14vh;
     }
 
+    .skill-list > div {
+        flex-basis: 100%;
+    }
+
     .download-resume > a {
         padding: 20px 40px;
     }
