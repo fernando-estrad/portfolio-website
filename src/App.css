@@ -307,6 +307,7 @@ h3 {
 
     .skill-list > div {
         flex-basis: 100%;
+        margin: 1rem 4rem;
     }
 
     .download-resume > a {
